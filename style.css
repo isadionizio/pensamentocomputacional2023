@@ -1,3 +1,20 @@
 h1 {
-    
+    text-align:center;
+    background-color: rgb(234, 0, 255);
+}
+h3{
+    background-color: rgb(224, 226, 84);
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+
+strong {
+    font-size: larger;
+}
+
+body {
+    background-color: rgb(181, 146, 214);
 }

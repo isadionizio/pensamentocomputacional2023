@@ -1,4 +1,4 @@
-h1 {
+h1 { font-style: italic;
     text-align:center;
     background-color: rgb(234, 0, 255);
 }
@@ -17,4 +17,10 @@ strong {
 
 body {
     background-color: rgb(181, 146, 214);
+}
+.comida { 
+    background-color: rgb(117, 76, 156); color: rgb(53, 53, 109);
+}
+.cabelo { 
+    background-color: rgb(206, 68, 68); color: beige;
 }

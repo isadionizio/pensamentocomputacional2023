@@ -24,9 +24,13 @@ body {
 .cabelo { 
     background-color: rgb(206, 68, 68); color: beige;
 }
+
 .imagem1 { 
     width: 35px;
 }
-.ul { display: inline;
-padding: 4%;
+.lista { display: inline;
+padding: 2%;
 margin-right: 20%;}
+.imagemcentralizada
+ {
+     text-align: center;}

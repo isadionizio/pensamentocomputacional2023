@@ -14,7 +14,7 @@ body {
     text-align: center;
 }
 .imagem1 {
-    width: 40%;
+    width: 20%;
     text-align:center;
 }
 .imagemcentralizada {
@@ -22,12 +22,12 @@ body {
 }
 .lista {
         display: inline-block;
-        padding: 7%;
-        margin-right: 15%;
-        color: gold;
-        padding: 6%;
+        padding: 5%;
+        margin-right: 10%;
+        color: rose;
+        padding: 5%;
         border-color: black;
-        border-width: 10px;
+        border-width: 8px;
         border-style: solid;
         border-radius: 10px 45px 2px 110px;
     }

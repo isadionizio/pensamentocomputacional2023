@@ -9,16 +9,13 @@ h3{
 }
 
 body {
-    background-color: blue;
+    background-color: lavander;
 
     text-align: center;
 }
-.imagem1 {
-    width: 100%;
-    text-align:center;
-}
 .imagemcentralizada {
- text-align: center;
+ text-align: center; 
+  width: 100px:
 }
 .lista {
         display: inline-block;

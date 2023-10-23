@@ -1,14 +1,11 @@
 h1 {
-    color: gold;
+    color: red;
 }
 h2{
     color: gold;
 }
 h3{
-    color: gold;
-}
-h4 {
-    color: gold;
+    color: red;
 }
 
 body {
@@ -17,7 +14,7 @@ body {
     text-align: center;
 }
 .imagem1 {
-    width: 100%;
+    width: 50%;
     text-align:center;
 }
 .imagemcentralizada {
@@ -25,24 +22,12 @@ body {
 }
 .lista {
         display: inline-block;
-        padding: 5%;
-        margin-right: 10%;
-        color: fuchsia;
-        padding: 5%;
-        border-color: pink;
+        padding: 7%;
+        margin-right: 15%;
+        color: gold;
+        padding: 6%;
+        border-color: black;
         border-width: 20px;
         border-style: solid;
         border-radius: 12px 50px 2px 120px;
     }
-
-nav a{
-    text-transform: uppercase;
-    text-align: center;
-    color: darkorchid;
-    font-weight: 300;
-    font-size: 100%;
-    text-decoration: none ;
-    border-color: pink;
-    border-width: 10px;
-    border-style: solid; 
-    backgound-color: pink;

@@ -27,8 +27,8 @@ body {
         border-width: 8px;
         border-style: solid;
         border-radius: 10px 45px 2px 110px;
-    }
-nav a{
+}
+    nav a{
     text-transform: uppercase;
     text-align: center;
     color: darkorchid;
@@ -40,3 +40,4 @@ nav a{
     border-style: solid; 
     backgound-color: pink;
 }
+

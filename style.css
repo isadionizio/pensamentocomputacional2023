@@ -17,19 +17,11 @@ body {
     text-align: center;
 }
 .imagem1 {
-    width: 40%;
+    width: 100%;
+    text-align:center;
 }
 .imagemcentralizada {
  text-align: center;
-}
-
-.unicornio {
-    font-style: initial;
-
-}
-.brilho {
-   color: deeppink;
-    font-style: italic
 }
 .lista {
         display: inline-block;

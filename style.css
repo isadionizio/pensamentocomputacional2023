@@ -1,11 +1,11 @@
 h1 {
-    color: rose;
+    color: red;
 }
 h2{
-    color: rose;
+    color: red;
 }
 h3{
-    color: rose;
+    color: red;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
     text-align: center;
 }
 .imagem1 {
-    width: 20%;
+    width: 100%;
     text-align:center;
 }
 .imagemcentralizada {

@@ -1,37 +1,56 @@
-h1 { font-style: italic;
-    text-align:center;
-    background-color: rgb(234, 0, 255);
+h1 {
+    color: gold;
+}
+h2{
+    color: gold;
 }
 h3{
-    background-color: rgb(224, 226, 84);
+    color: gold;
 }
-
-p {
-    text-align: center;
-    font-size: medium;
-}
-
-strong {
-    font-size: larger;
+h4 {
+    color: gold;
 }
 
 body {
-    background-color: rgb(181, 146, 214);
+    background-color: lavender;
+
+    text-align: center;
 }
-.comida { 
-    background-color: rgb(117, 76, 156); color: rgb(53, 53, 109);
+.imagem1 {
+    width: 40%;
 }
-.cabelo { 
-    background-color: rgb(206, 68, 68); color: beige;
+.imagemcentralizada {
+ text-align: center;
 }
 
-.imagem1 { 
-    width: 35px;
+.unicornio {
+    font-style: initial;
+
 }
-.lista { display: inline;
-padding: 2%;
-margin-right: 20%;}
-.imagemcentralizada
- {
-     text-align: center;
- }
+.brilho {
+   color: deeppink;
+    font-style: italic
+}
+.lista {
+        display: inline-block;
+        padding: 5%;
+        margin-right: 10%;
+        color: fuchsia;
+        padding: 5%;
+        border-color: pink;
+        border-width: 20px;
+        border-style: solid;
+        border-radius: 12px 50px 2px 120px;
+    }
+
+nav a{
+    text-transform: uppercase;
+    text-align: center;
+    color: darkorchid;
+    font-weight: 300;
+    font-size: 100%;
+    text-decoration: none ;
+    border-color: pink;
+    border-width: 10px;
+    border-style: solid; 
+    backgound-color: pink;
